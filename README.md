@@ -3,8 +3,6 @@
 🚀 Full-Stack Developer | E-Commerce Specialist | React Enthusiast
 
 ## 🔧 Technologies & Tools
-
-## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933)
