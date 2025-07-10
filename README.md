@@ -25,11 +25,17 @@
 - Email: kalyanmanna439@gmail.com
 
 ```javascript
-// Fun code snippet
-const aboutMe = {
+// A bit about me
+const kalyan = {
   pronouns: "he/him",
-  code: ["JavaScript", "Python", "Java"],
-  askMeAbout: ["web dev", "tech", "e-commerce"],
-  currentFocus: "Building awesome React applications"
+  location: "India",
+  languages: ["HTML", "CSS", "JavaScript", "Python"],
+  frameworks: ["React", "Node.js", "Express.js"],
+  databases: ["MongoDB", "MySQL"],
+  specialties: ["Freelancer", "Frontend Architecture", "UI/UX Design"],
+  currentFocus: "Collecting knowledge like Thanos collects Infinity Stones 💎 — but only a few get mastered... for now. 🚀",
+  funFact: "Still wondering why 'NaN' is a number 🤔"
 };
+
+console.log("Thanks for visiting my profile! Let's build something amazing together! 🌟");
 ```
