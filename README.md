@@ -13,9 +13,10 @@
 
 ## 🌟 Featured Projects
 1. [ShoeVerse](https://github.com/Kalyan-github-4/ShoeVerse) - Advanced e-commerce with React filters
+2. [PopTime](https://github.com/Kalyan-github-4/PopTime) - A new & creative digital clock with a popping animation
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact)
 
