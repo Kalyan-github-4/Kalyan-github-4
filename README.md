@@ -1,6 +1,6 @@
 ﻿# Hi there, I'm Kalyan! 👋
 
-🚀 Full-Stack Developer | E-Commerce Specialist | React Enthusiast
+🚀 Full-Stack Developer (MERN) | UI/UX Advocate | Open Source Contributor 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
@@ -21,18 +21,18 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact)
 
 ## 📫 How to Reach Me
-- LinkedIn: [Kalyan Manna](www.linkedin.com/in/kalyan-manna-840861352)
-- Email: kalyanmanna439@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalyan_Manna-informational?style=flat&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/kalyan-manna-840861352)
+[![Email](https://img.shields.io/badge/Email-kalyanmanna439@gmail.com-informational?style=flat&logo=gmail&color=EA4335)](mailto:kalyanmanna439@gmail.com)
 
 ```javascript
-// A bit about me
+// ⚡ A bit about me
 const kalyan = {
-  pronouns: "he/him",
+    pronouns: "he" + "/" + "him",
   location: "India",
-  languages: ["HTML", "CSS", "JavaScript", "Python"],
+  code: ["JavaScript", "Python", "HTML", "CSS"],
   frameworks: ["React", "Node.js", "Express.js"],
   databases: ["MongoDB", "MySQL"],
-  specialties: ["Freelancer", "Frontend Architecture", "UI/UX Design"],
+  architecture: ["Frontend", "UI/UX Design", "Freelance Projects"],
   currentFocus: "Collecting knowledge like Thanos collects Infinity Stones 💎 — but only a few get mastered... for now. 🚀",
   funFact: "Still wondering why 'NaN' is a number 🤔"
 };
