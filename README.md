@@ -14,6 +14,7 @@
 ## 🌟 Featured Projects
 1. [ShoeVerse](https://github.com/Kalyan-github-4/ShoeVerse) - Advanced e-commerce with React filters
 2. [PopTime](https://github.com/Kalyan-github-4/PopTime) - A new & creative digital clock with a popping animation
+3. [Simon Game](https://github.com/Kalyan-github-4/Simon-Game) - A web-based memory game where you repeat an increasingly complex sequence of lights and sounds.
 
 ## 📈 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical&include_all_commits=true)
