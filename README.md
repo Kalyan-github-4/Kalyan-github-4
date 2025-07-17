@@ -17,7 +17,7 @@
 3. [Simon Game](https://github.com/Kalyan-github-4/Simon-Game) - A web-based memory game where you repeat an increasingly complex sequence of lights and sounds.
 
 ## 📈 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical&include_all_commits=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact)
 
