@@ -28,7 +28,7 @@
 ```javascript
 // ⚡ A bit about me
 const kalyan = {
-    pronouns: "he" + "/" + "him",
+  pronouns: "he" + "/" + "him",
   location: "India",
   code: ["JavaScript", "Python", "HTML", "CSS"],
   frameworks: ["React", "Node.js", "Express.js"],
