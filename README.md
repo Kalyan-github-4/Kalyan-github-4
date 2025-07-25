@@ -3,16 +3,20 @@
 🚀 Full-Stack Developer (MERN) | UI/UX Advocate | Open Source Contributor 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933)
-![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&color=000000)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&color=007ACC)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032)
+![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ## 🌟 Featured Projects
-1. [ShoeVerse](https://github.com/Kalyan-github-4/ShoeVerse) - 🛒 Advanced e-commerce with React filters
+1. [ShoeVerse](https://github.com/Kalyan-github-4/ShoeVerse) - 🛒 A modern React-based e-commerce app with dynamic filters and smooth UI.
 2. [PopTime](https://github.com/Kalyan-github-4/PopTime) - ⏰ Creative digital clock with popping animations 
 3. [Simon Game](https://github.com/Kalyan-github-4/Simon-Game) - 🎮 Web-based memory game with light/sound sequences
 
@@ -20,7 +24,6 @@
 
 | ![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical&hide_border=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=Kalyan-github-4&theme=dark&count_private=true)](https://github.com/DenverCoder1/github-readme-streak-stats) |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalyan_Manna-informational?style=flat&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/kalyan-manna-840861352)
@@ -41,3 +44,5 @@ const kalyan = {
 
 console.log("Thanks for visiting my profile! Let's build something amazing together! 🌟");
 ```
++ Currently open to collaborations and new opportunities!
+# Let's create something extraordinary together 🚀
