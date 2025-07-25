@@ -17,10 +17,11 @@
 3. [Simon Game](https://github.com/Kalyan-github-4/Simon-Game) - 🎮 Web-based memory game with light/sound sequences
 
 ## 📊 GitHub Stats
-| ![Kalyan's Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact&theme=radical&hide_border=true) |
-|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kalyan-github-4&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+| ![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical&hide_border=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=Kalyan-github-4&theme=dark&count_private=true)](https://github.com/DenverCoder1/github-readme-streak-stats) |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalyan_Manna-informational?style=flat&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/kalyan-manna-840861352)
 [![Email](https://img.shields.io/badge/Email-kalyanmanna439@gmail.com-informational?style=flat&logo=gmail&color=EA4335)](mailto:kalyanmanna439@gmail.com)
