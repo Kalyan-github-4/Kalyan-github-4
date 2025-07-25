@@ -12,12 +12,13 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032)
 
 ## 🌟 Featured Projects
-1. [ShoeVerse](https://github.com/Kalyan-github-4/ShoeVerse) - Advanced e-commerce with React filters
-2. [PopTime](https://github.com/Kalyan-github-4/PopTime) - A new & creative digital clock with a popping animation
-3. [Simon Game](https://github.com/Kalyan-github-4/Simon-Game) - A web-based memory game where you repeat an increasingly complex sequence of lights and sounds.
+1. [ShoeVerse](https://github.com/Kalyan-github-4/ShoeVerse) - 🛒 Advanced e-commerce with React filters
+2. [PopTime](https://github.com/Kalyan-github-4/PopTime) - ⏰ Creative digital clock with popping animations 
+3. [Simon Game](https://github.com/Kalyan-github-4/Simon-Game) - 🎮 Web-based memory game with light/sound sequences
 
-![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&count_private=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact)
+## 📊 GitHub Stats
+| ![Kalyan's Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact&theme=radical&hide_border=true) |
+|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalyan_Manna-informational?style=flat&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/kalyan-manna-840861352)
