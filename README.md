@@ -16,6 +16,7 @@
 2. [PopTime](https://github.com/Kalyan-github-4/PopTime) - A new & creative digital clock with a popping animation
 3. [Simon Game](https://github.com/Kalyan-github-4/Simon-Game) - A web-based memory game where you repeat an increasingly complex sequence of lights and sounds.
 
+![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&count_private=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact)
 
 ## 📫 How to Reach Me
