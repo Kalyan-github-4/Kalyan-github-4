@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-| ![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Kalyan-github-4&theme=tokyonight&count_private=true)](https://github.com/DenverCoder1/github-readme-streak-stats)|
+| ![Kalyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=tokyonight&count_private=true&border_color=7aa2f7) | [![GitHub Streak](https://streak-stats.demolab.com/?user=Kalyan-github-4&theme=tokyonight&count_private=true&border_color=7aa2f7)](https://github.com/DenverCoder1/github-readme-streak-stats)|
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 📫 How to Reach Me
