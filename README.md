@@ -22,8 +22,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 | GitHub Streak | GitHub Stats |
 |--------------|--------------|
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=Kalyan-github-4&theme=cupcake&hide_border=true&background=ffffff)](https://github.com/DenverCoder1/github-readme-streak-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=cupcake&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|
