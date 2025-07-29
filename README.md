@@ -24,7 +24,7 @@
 
 | GitHub Streak | GitHub Stats |
 |--------------|--------------|
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=Kalyan-github-4&theme=cupcake&hide_border=true&background=ffffff)](https://github.com/DenverCoder1/github-readme-streak-stats) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=cupcake&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=Kalyan-github-4&theme=cupcake&hide_border=true&background=ffffff)](https://github.com/DenverCoder1/github-readme-streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical&count_private=true&hide_border=true)|
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalyan_Manna-informational?style=flat&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/kalyan-manna-840861352)
