@@ -22,9 +22,10 @@
 
 ## 📊 GitHub Stats
 
-| GitHub Streak | GitHub Stats |
-|---------------|--------------|
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=Kalyan-github-4&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/DenverCoder1/github-readme-streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical&count_private=true&hide_border=true) |
+| Streak Stats | GitHub Stats |
+|--------------|--------------|
+| [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Kalyan-github-4)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical&count_private=true&hide_border=true) |
+
 
 
 ## 📫 How to Reach Me
