@@ -26,6 +26,9 @@
 |--------------|--------------|
 | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Kalyan-github-4)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical&count_private=true&hide_border=true) |
 
+| 📈 Contribution Graph |
+|------------------------|
+| [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalyan-github-4&theme=github-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph) |
 
 
 ## 📫 How to Reach Me
