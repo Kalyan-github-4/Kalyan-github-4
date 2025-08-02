@@ -1,6 +1,6 @@
 ﻿# Hi there, I'm Kalyan! 👋
 
-🚀 Full-Stack Developer (MERN) | UI/UX Advocate | Open Source Contributor 
+🚀 Full-Stack Developer (MERN) | UI/UX Enthusiast | Open Source Contributor 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
@@ -52,6 +52,7 @@ console.log("Thanks for visiting my profile! Let's build something amazing toget
 ```
 + Currently open to collaborations and new opportunities!
 # Let's create something extraordinary together 🚀
+
 
 
 
