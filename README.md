@@ -30,7 +30,6 @@
 |------------------------|
 | [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kalyan-github-4&theme=github-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph) |
 
-
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalyan_Manna-informational?style=flat&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/kalyan-manna-840861352)
 [![Email](https://img.shields.io/badge/Email-kalyanmanna439@gmail.com-informational?style=flat&logo=gmail&color=EA4335)](mailto:kalyanmanna439@gmail.com)
@@ -52,3 +51,4 @@ console.log("Thanks for visiting my profile! Let's build something amazing toget
 ```
 + Currently open to collaborations and new opportunities!
 # Let's create something extraordinary together 🚀
+
