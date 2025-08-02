@@ -7,10 +7,11 @@
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?logo=css&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![](https://img.shields.io/badge/-EJS-000000?logo=ejs&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -51,4 +52,5 @@ console.log("Thanks for visiting my profile! Let's build something amazing toget
 ```
 + Currently open to collaborations and new opportunities!
 # Let's create something extraordinary together 🚀
+
 
