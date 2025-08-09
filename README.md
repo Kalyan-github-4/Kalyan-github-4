@@ -26,10 +26,7 @@
 
 | 🔥 GitHub Streak | 📊 GitHub Stats |
 |------------------|------------------|
-| [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Kalyan-github-4&theme=gruvbox&hide_border=true)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=dracula&count_private=true&hide_border=true) |
-
-
-
+| [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Kalyan-github-4&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=tokyonight&count_private=true&hide_border=true) |
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalyan_Manna-informational?style=flat&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/kalyan-manna-840861352)
@@ -52,6 +49,7 @@ console.log("Thanks for visiting my profile! Let's build something amazing toget
 ```
 + Currently open to collaborations and new opportunities!
 # Let's create something extraordinary together 🚀
+
 
 
 
