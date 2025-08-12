@@ -18,9 +18,15 @@
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ## 🌟 Featured Projects
-1. [ShoeVerse](https://github.com/Kalyan-github-4/ShoeVerse) - 🛒 A modern React-based e-commerce app with dynamic filters and smooth UI.
-2. [PopTime](https://github.com/Kalyan-github-4/PopTime) - ⏰ Creative digital clock with popping animations 
-3. [Simon Game](https://github.com/Kalyan-github-4/Simon-Game) - 🎮 Web-based memory game with light/sound sequences
+
+1. [**ShoeVerse**](https://github.com/Kalyan-github-4/ShoeVerse) 🛒  
+   A modern **React**-based e-commerce app featuring dynamic filters and a smooth, responsive UI.
+
+2. [**PopTime**](https://github.com/Kalyan-github-4/PopTime) ⏰  
+   A creative **JavaScript** digital clock with popping animations and a playful design.
+
+3. [**Simon Game**](https://github.com/Kalyan-github-4/Simon-Game) 🎮  
+   A **JavaScript**-powered memory game with light and sound sequences to challenge your skills.
 
 ## 💻🚀 My GitHub Activity
 
@@ -50,6 +56,7 @@ console.log("Thanks for visiting my profile! Let's build something amazing toget
 ```
 + Currently open to collaborations and new opportunities!
 # Let's create something extraordinary together 🚀
+
 
 
 
