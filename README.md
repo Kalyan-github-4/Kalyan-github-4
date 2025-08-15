@@ -25,12 +25,12 @@
 2. [**PopTime**](https://github.com/Kalyan-github-4/PopTime) ⏰  
    A creative **JavaScript** digital clock with popping animations and a playful design.
 
-   [![View Live](https://img.shields.io/badge/View%20Live-FF0000?style=flat&logo=google-chrome&logoColor=white)](https://pop-time-ivory.vercel.app/)
+   [![VIEW Live](https://img.shields.io/badge/View%20Live-FF0000?style=flat&logo=google-chrome&logoColor=white)](https://pop-time-ivory.vercel.app/)
 
 3. [**Simon Game**](https://github.com/Kalyan-github-4/Simon-Game) 🎮  
    A **JavaScript**-powered memory game with light and sound sequences to challenge your skills.
    
-   [![Play Now](https://img.shields.io/badge/View%20Live-FF0000?style=flat&logo=google-chrome&logoColor=white)](simon-game-seven-blush.vercel.app)
+   [![Play Live](https://img.shields.io/badge/View%20Live-FF0000?style=flat&logo=google-chrome&logoColor=white)](https://simon-game-seven-blush.vercel.app)
 
 ## 💻🚀 My GitHub Activity
 
@@ -61,6 +61,7 @@ console.log("Thanks for visiting my profile! Let's build something amazing toget
 ```
 + Currently open to collaborations and new opportunities!
 # Let's create something extraordinary together 🚀
+
 
 
 
