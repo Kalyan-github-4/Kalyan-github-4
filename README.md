@@ -36,7 +36,8 @@
 
 | 📊 GitHub Stats |
 |------------------|
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=dark) |
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical) |
+
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalyan_Manna-informational?style=flat&logo=linkedin&color=0A66C2)](https://www.linkedin.com/in/kalyan-manna-840861352)
@@ -59,6 +60,7 @@ console.log("Thanks for visiting my profile! Let's build something amazing toget
 ```
 + Currently open to collaborations and new opportunities!
 # Let's create something extraordinary together 🚀
+
 
 
 
