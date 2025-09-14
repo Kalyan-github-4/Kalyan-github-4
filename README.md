@@ -21,7 +21,8 @@
 
 1. [**ShoeVerse**](https://github.com/Kalyan-github-4/ShoeVerse) 🛒  
    A modern **React**-based e-commerce app featuring dynamic filters and a smooth, responsive UI.
-     [![VIEW Live](https://img.shields.io/badge/View%20Live-FF0000?style=flat&logo=google-chrome&logoColor=white)](https://shoeverse.onrender.com/)
+   
+   [![VIEW Live](https://img.shields.io/badge/View%20Live-FF0000?style=flat&logo=google-chrome&logoColor=white)](https://shoeverse.onrender.com/)
 
 3. [**PopTime**](https://github.com/Kalyan-github-4/PopTime) ⏰  
    A creative **JavaScript** digital clock with popping animations and a playful design.
@@ -61,6 +62,7 @@ console.log("Thanks for visiting my profile! Let's build something amazing toget
 ```
 + Currently open to collaborations and new opportunities!
 # Let's create something extraordinary together 🚀
+
 
 
 
