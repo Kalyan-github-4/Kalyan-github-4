@@ -38,7 +38,7 @@
 
 | 📊 GitHub Stats |
 |------------------|
-|![Kalyan's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=redical)|
+|![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical)|
 
 
 
@@ -63,6 +63,7 @@ console.log("Thanks for visiting my profile! Let's build something amazing toget
 ```
 + Currently open to collaborations and new opportunities!
 # Let's create something extraordinary together 🚀
+
 
 
 
