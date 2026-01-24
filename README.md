@@ -36,9 +36,11 @@
 
 ## 💻🚀 My GitHub Activity
 
-| 📊 GitHub Stats |
-|------------------|
-|![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical)|
+| 📊 GitHub Stats | 📊 Top Languages |
+|----------------|----------------|
+| ![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical) | ![Kalyan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact&theme=radical) |
+
+
 
 
 
@@ -63,6 +65,7 @@ console.log("Thanks for visiting my profile! Let's build something amazing toget
 ```
 + Currently open to collaborations and new opportunities!
 # Let's create something extraordinary together 🚀
+
 
 
 
