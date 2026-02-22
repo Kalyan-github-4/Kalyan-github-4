@@ -36,11 +36,7 @@
 
 ## 💻🚀 My GitHub Activity
 
-| 📊 GitHub Stats | 📊 Top Languages |
-|----------------|----------------|
-| ![Kalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical) | ![Kalyan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact&theme=radical) |
-
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalyan-github-4&theme=radical) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalyan-github-4&theme=radical)
 
 
 
