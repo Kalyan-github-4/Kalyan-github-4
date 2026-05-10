@@ -38,7 +38,7 @@
 
 | GitHub Stats | Top Languages |
 |-------------|--------------|
-| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact&theme=radical) | ![Stats](https://github-readme-stats.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical) |
+| ![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact&theme=radical) | ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Kalyan-github-4&show_icons=true&theme=radical) |
 
 
 
