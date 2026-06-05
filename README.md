@@ -10,12 +10,31 @@
 ![](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![](https://img.shields.io/badge/-EJS-000000?logo=ejs&logoColor=white)
+
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+### 🔐 Auth & Backend Services
+![](https://img.shields.io/badge/-Clerk-6C47FF?logo=clerk&logoColor=white)
+
+### 📱 Mobile / App Development
+![](https://img.shields.io/badge/-React_Native-20232A?logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
+
+### ⚙️ ORM / Backend Tools
+![](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![](https://img.shields.io/badge/-Drizzle_ORM-000000?logo=postgresql&logoColor=white)
+
+### ☁️ Cloud / Dev Tools
+![](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![](https://img.shields.io/badge/-EAS_Build-000000?logo=expo&logoColor=white)
 
 ## 🌟 Featured Projects
 
