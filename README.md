@@ -11,19 +11,18 @@
 
 - 💻 Full stack dev from India, mostly living in the React + Node ecosystem
 - 🎓 CS student by day, shipping side projects by night
-- 🌱 Deep in **Next.js, TypeScript, PostgreSQL, Prisma, and System Design** right now
+- 🌱 Deep in **React.js, TypeScript, PostgreSQL, Neon, and System Design** right now
 - 🎯 Chasing two big targets: a **Software Engineering Internship** and **GSoC 2027**
 - 🤝 Always down to collaborate on open source or full-stack builds
 - ⚡ Currently winning the fight against `NaN === NaN` being false
 
 ---
 
-### 💻 Tech Stack
-
 ## 💻 Tech Stack
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -31,6 +30,7 @@
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 
 ### **Databases & ORM**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
