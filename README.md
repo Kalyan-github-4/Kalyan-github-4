@@ -1,10 +1,6 @@
 <h1 align="center">Hey, I'm Kalyan 👋</h1>
 <h3 align="center">Full Stack Developer · Building things that work (and look good doing it)</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalyan-github-4&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🚀 A bit about me
