@@ -34,16 +34,6 @@
 
 ---
 
-### 🎯 2026 Goals
-
-- 🚀 Ship full-stack projects I'd actually be proud to demo
-- 🌟 Contribute to open source on the regular
-- 💯 Hit 1000+ GitHub contributions
-- 💼 Land a Software Engineering internship
-- 🎓 Crack GSoC 2027
-
----
-
 ### 📫 Let's connect
 
 <p align="left">
