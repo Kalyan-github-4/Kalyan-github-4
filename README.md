@@ -3,16 +3,6 @@
 
 ---
 
-### 🚀 A bit about me
-
-- 💻 Full stack dev from India, mostly living in the React + Node ecosystem
-- 🎓 CS student by day, shipping side projects by night
-- 🌱 Deep in **React.js, TypeScript, PostgreSQL, Neon, and System Design** right now
-- 🎯 Chasing two big targets: a **Software Engineering Internship** and **GSoC 2027**
-- 🤝 Always down to collaborate on open source or full-stack builds
-- ⚡ Currently winning the fight against `NaN === NaN` being false
-
----
 <h2>🛠️ Things I Code With</h2>
 
 <p>
