@@ -6,12 +6,13 @@
 <h2>🛠️ Things I Code With</h2>
 
 <p>
-<img
-  src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,python,html,css,tailwind,redux,nodejs,express,fastapi,postgres,mysql,redis,prisma,firebase,supabase,git,github,githubactions,vercel,netlify,postman,vscode,figma,npm,cloudflare&perline=15"
-  width="100%"
-  alt="Technologies and development tools used by Kalyan Manna"
-/>
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,python,html,css,tailwind,redux,nodejs,express,fastapi,mongodb,postgres,mysql,redis,prisma,firebase,supabase,docker,linux,bash,git,github,githubactions,vercel,netlify,cloudflare,postman,vscode,figma,npm&perline=15"
+    width="100%"
+    alt="Technologies and development tools used by Kalyan Manna"
+  />
 </p>
+
 
 ---
 
