@@ -20,7 +20,7 @@
 
 | Stats | Top Languages |
 | --- | --- |
-| ![](https://github-readme-stats-five-gamma-19.vercel.app/api?username=Kalyan-github-4&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats-five-gamma-19.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400) |
+| ![](https://github-readme-stats-kalyanmanna439-gmailcoms-projects.vercel.app/api?username=Kalyan-github-4&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats-five-gamma-19.vercel.app/api/top-langs/?username=Kalyan-github-4&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400) |
 
 ![Trophy](https://github-trophies.devomb.com/?username=Kalyan-github-4&theme=tokyonight)
 
