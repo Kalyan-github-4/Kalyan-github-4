@@ -7,7 +7,7 @@
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=react,nextjs,vite,svelte,js,ts,python,java,c,cpp,php,html,css,sass,tailwind,bootstrap,materialui,redux,nodejs,express,fastapi,nestjs,mongodb,postgres,mysql,sqlite,redis,prisma,firebase,supabase,docker,kubernetes,nginx,linux,bash,git,github,githubactions,vercel,netlify,cloudflare,postman,graphql,apollo,md,regex,vscode,figma,npm,pnpm,yarn,webpack,vitest,jest,cypress&perline=15"
+    src="https://skillicons.dev/icons?i=react,nextjs,vite,svelte,js,ts,python,java,c,cpp,php,html,css,sass,tailwind,bootstrap,materialui,redux,nodejs,express,fastapi,mongodb,postgres,mysql,sqlite,redis,prisma,firebase,kafka,supabase,docker,kubernetes,nginx,linux,bash,git,github,githubactions,vercel,netlify,cloudflare,postman,graphql,apollo,md,regex,vscode,figma,npm,pnpm,yarn,webpack&perline=15"
     width="100%"
     alt="Technologies and development tools used by Kalyan Manna"
   />
