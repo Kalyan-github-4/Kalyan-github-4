@@ -1,21 +1,45 @@
 <h1 align="center">Hey, I'm Kalyan 👋</h1>
-<h3 align="center">Full Stack Developer · Building things that work (and look good doing it)</h3>
+
+<h3 align="center">
+  Full Stack Developer · Building things that probably shouldn't exist
+</h3>
+
+<p align="center">
+  Turning random ideas into actual products before the deadline catches up.
+</p>
 
 ---
 
-<h2>🛠️ Things I Code With</h2>
+## ⚡ What I'm Building
 
-<p>
+- 🚀 Full-stack web & mobile applications
+- 🧠 AI-powered tools and automation
+- 🏗️ Scalable backend systems & APIs
+- 🧪 Hackathon projects and experimental products
+- 💼 Freelance projects for real-world businesses
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,nextjs,vite,vitest,js,ts,python,html,css,tailwind,redux,nodejs,express,fastapi,mongodb,postgres,mysql,sqlite,redis,prisma,firebase,kafka,supabase,docker,linux,bash,git,github,githubactions,vercel,netlify,cloudflare,graphql,postman,md,npm&webpacke=15"
+    src="https://skillicons.dev/icons?i=react,nextjs,vite,vitest,js,ts,python,html,css,tailwind,redux,nodejs,express,fastapi,postgres,mysql,sqlite,redis,firebase,supabase,docker,linux,bash,git,github,githubactions,vercel,cloudflare,graphql,postman,npm"
     width="100%"
-    alt="Technologies and development tools used by Kalyan Manna"
+    alt="Technologies and development tools"
   />
 </p>
 
+---
+
+## 🚧 Currently Exploring
+
+`System Design` · `Distributed Systems` · `DevOps` · `WebRTC`  
+`AI Engineering` · `Performance Optimization` · `Scalable Architecture`
 
 ---
-### 📊 GitHub Stats
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -36,7 +60,9 @@
 
 </div>
 
-### 🏆 GitHub Trophies
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img
@@ -46,15 +72,27 @@
 
 ---
 
-### 📫 Let's connect
+## 📫 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kalyan-manna-840861352">
-<img src="https://img.shields.io/badge/LinkedIn-Kalyan%20Manna-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:kalyanmanna439@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-kalyanmanna439@gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a>
+  <a href="https://www.linkedin.com/in/kalyan-manna-840861352">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Kalyan%20Manna-blue?style=for-the-badge&logo=linkedin"
+    />
+  </a>
+  <a href="mailto:kalyanmanna439@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-kalyanmanna439@gmail.com-red?style=for-the-badge&logo=gmail"
+    />
+  </a>
 </p>
 
-<h3 align="center">⭐ Star a repo if something here's useful to you!</h3>
+---
+
+<h3 align="center">
+  Build. Break. Learn. Ship. Repeat. 🚀
+</h3>
+
+<p align="center">
+  <i>Currently somewhere between npm install and "it works on my machine". 💀</i>
+</p>
