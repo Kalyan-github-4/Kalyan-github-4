@@ -80,17 +80,24 @@ Currently learning **how Netflix serves millions of people while my localhost st
 
 <div align="center">
 
-<img
-  src="./profile/stats.svg"
-  height="180"
-  alt="Kalyan's GitHub Stats"
-/>
-
-<img
-  src="./profile/top-langs.svg"
-  height="180"
-  alt="Kalyan's Top Languages"
-/>
+<table>
+<tr>
+<td align="center">
+  <img
+    src="./profile/stats.svg"
+    height="180"
+    alt="Kalyan's GitHub Stats"
+  />
+</td>
+<td align="center">
+  <img
+    src="./profile/top-langs.svg"
+    height="180"
+    alt="Kalyan's Top Languages"
+  />
+</td>
+</tr>
+</table>
 
 </div>
 
