@@ -29,25 +29,49 @@
 
 ---
 
-## 🚀 Stuff I've Built
+## 🚀 Featured Project
 
-### 🗑️ Deadweight
+<div align="center">
 
-A VS Code extension that finds unused packages and dead files.
+<h2>🗑️ <a href="https://github.com/Kalyan-github-4/DeadWeight">DeadWeight</a></h2>
 
-Because apparently `node_modules` wasn't already terrifying enough.
+<b>A VS Code extension that finds unused packages and dead files.</b>
+
+<i>Because apparently <code>node_modules</code> wasn't already terrifying enough.</i>
+
+<br/><br/>
+
+<a href="https://marketplace.visualstudio.com/items?itemName=kalyanmanna.deadweight">
+  <img src="https://img.shields.io/visual-studio-marketplace/v/kalyanmanna.deadweight?style=for-the-badge&label=Marketplace&logo=visualstudiocode&logoColor=white&color=007ACC" alt="VS Code Marketplace version" />
+</a>
+<a href="https://marketplace.visualstudio.com/items?itemName=kalyanmanna.deadweight">
+  <img src="https://img.shields.io/visual-studio-marketplace/i/kalyanmanna.deadweight?style=for-the-badge&label=Installs&color=1f6feb" alt="Installs" />
+</a>
+<a href="https://github.com/Kalyan-github-4/DeadWeight">
+  <img src="https://img.shields.io/github/stars/Kalyan-github-4/DeadWeight?style=for-the-badge&logo=github&color=f0b429" alt="GitHub stars" />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">📦<br/><b>Unused Packages</b><br/><sub>Dependencies you installed and forgot</sub></td>
+<td align="center" width="33%">🪦<br/><b>Dead Files</b><br/><sub>Code nobody imports anymore</sub></td>
+<td align="center" width="33%">🧹<br/><b>Safe Cleanup</b><br/><sub>Delete without fear (mostly)</sub></td>
+</tr>
+</table>
+
+<br/>
 
 > **Goal:** Find out what you can delete without turning production into a crime scene.
 
----
+<br/>
 
-### 🏠 EasyPG
+<a href="https://marketplace.visualstudio.com/items?itemName=kalyanmanna.deadweight"><b>⬇️ Install Extension</b></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/Kalyan-github-4/DeadWeight"><b>⭐ View on GitHub</b></a>
 
-A platform for finding PGs, hostels and messes.
-
-Because finding a decent place to live shouldn't require 47 WhatsApp groups, three brokers and divine intervention.
-
-**Motto:** `Find Home, Away From Home`
+</div>
 
 ---
 
