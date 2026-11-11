@@ -42,13 +42,10 @@
 <br/><br/>
 
 <a href="https://marketplace.visualstudio.com/items?itemName=kalyanmanna.deadweight">
-  <img src="https://img.shields.io/visual-studio-marketplace/v/kalyanmanna.deadweight?style=for-the-badge&label=Marketplace&logo=visualstudiocode&logoColor=white&color=007ACC" alt="VS Code Marketplace version" />
+  <img src="https://vsmarketplacebadges.dev/version/kalyanmanna.deadweight.svg?style=for-the-badge&label=Marketplace&color=007ACC" alt="VS Code Marketplace version" />
 </a>
 <a href="https://marketplace.visualstudio.com/items?itemName=kalyanmanna.deadweight">
-  <img src="https://img.shields.io/visual-studio-marketplace/i/kalyanmanna.deadweight?style=for-the-badge&label=Installs&color=1f6feb" alt="Installs" />
-</a>
-<a href="https://github.com/Kalyan-github-4/DeadWeight">
-  <img src="https://img.shields.io/github/stars/Kalyan-github-4/DeadWeight?style=for-the-badge&logo=github&color=f0b429" alt="GitHub stars" />
+  <img src="https://vsmarketplacebadges.dev/installs/kalyanmanna.deadweight.svg?style=for-the-badge&label=Installs&color=1f6feb" alt="Installs" />
 </a>
 
 <br/><br/>
