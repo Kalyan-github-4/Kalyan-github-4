@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Kalyan 👋</h1>
 
 <h3 align="center">
-  Full Stack Developer · Professional Bug Creator · Occasional Bug Fixer
+  Full Stack Developer · Building scalable web, mobile and AI-powered applications
 </h3>
 
 <p align="center">
-  Turning random ideas, caffeine, and questionable architectural decisions into working products.
+  Turning ideas into reliable, well-crafted products, one commit at a time.
 </p>
 
 <p align="center">
@@ -18,24 +18,33 @@
 
 ---
 
-## ⚡ Things I Somehow End Up Building
-
-* 🚀 Full-stack web & mobile apps
-* 🤖 AI-powered tools that may or may not replace my own workflow
-* 🏗️ Backend systems that start simple and somehow become distributed systems
-* 🧪 Hackathon projects built with 30% code and 70% panic
-* 💼 Freelance projects for people who say *"it's just a small feature"*
-* 🗑️ Tools for finding code that nobody remembers writing
+## 👾 About Me
+ 
+I'm a full stack developer and Computer Science student who enjoys building products end to end, from clean, responsive interfaces to reliable backend systems and APIs. I focus on writing maintainable code, designing for scale, and shipping software that solves real problems.
+ 
+- 🎓 Pursuing a B.Tech in Computer Science & Engineering
+- 💼 Building full-stack applications for freelance clients
+- 🔭 Currently working on developer tooling and AI-powered applications
+- 🤝 Open to **software engineering internships** and collaboration on open-source projects
 
 ---
 
+## 💡 What I Work On
+ 
+- **Full-stack web & mobile applications:** React, Next.js, React Native, Node.js
+- **Backend systems & APIs:** REST and GraphQL services, databases, caching and authentication
+- **AI-powered tools:** integrating LLMs into practical, user-facing workflows
+- **Developer tooling:** tools that help teams keep their codebases lean, secure and maintainable
+
+---
+ 
 ## 🚀 Featured Project
 
 <div align="center">
 
 <h2>🗑️ <a href="https://github.com/Kalyan-github-4/DeadWeight">DeadWeight</a></h2>
 
-<b>A VS Code extension that finds unused packages and dead files.</b>
+<b>A VS Code extension that finds unused packages, dead files and malicious dependencies.</b>
 
 <i>Because apparently <code>node_modules</code> wasn't already terrifying enough.</i>
 
@@ -52,15 +61,16 @@
 
 <table>
 <tr>
-<td align="center" width="33%">📦<br/><b>Unused Packages</b><br/><sub>Dependencies you installed and forgot</sub></td>
-<td align="center" width="33%">🪦<br/><b>Dead Files</b><br/><sub>Code nobody imports anymore</sub></td>
-<td align="center" width="33%">🧹<br/><b>Safe Cleanup</b><br/><sub>Delete without fear (mostly)</sub></td>
+<td align="center" width="25%">📦<br/><b>Unused Packages</b><br/><sub>Dependencies you installed and forgot</sub></td>
+<td align="center" width="25%">🪦<br/><b>Dead Files</b><br/><sub>Code nobody imports anymore</sub></td>
+<td align="center" width="25%">🛡️<br/><b>Malware Detection</b><br/><sub>Flags malicious and suspicious packages</sub></td>
+<td align="center" width="25%">🧹<br/><b>Safe Cleanup</b><br/><sub>Remove with confidence</sub></td>
 </tr>
 </table>
 
 <br/>
 
-> **Goal:** Find out what you can delete without turning production into a crime scene.
+> **Goal:** Find out what you can delete, and what you shouldn't have installed in the first place, without turning production into a crime scene.
 
 <br/>
 
@@ -72,7 +82,7 @@
 
 ---
 
-## 🛠️ My Current Weapon Collection
+## 🛠️ Tech Stack
 
 <p align="center">
   <img
@@ -81,19 +91,6 @@
     alt="Technologies and development tools"
   />
 </p>
-
----
-
-## 🧠 Currently Making My Brain Hurt With
-
-`System Design` · `Distributed Systems` · `WebRTC` · `Real-Time Systems`
-
-`AI Engineering` · `Cloud Infrastructure` · `Database Architecture`
-
-`Caching` · `Performance Optimization` · `Scalable APIs`
-
-Currently learning **how Netflix serves millions of people while my localhost struggles with 3 tabs.** 💀
-
 
 ---
 
@@ -129,51 +126,9 @@ Currently learning **how Netflix serves millions of people while my localhost st
 <p align="center">
   <img
     src="https://github-trophies.devomb.com/?username=Kalyan-github-4&theme=tokyonight"
+    alt="Kalyan's GitHub Trophies"
   />
 </p>
-
----
-
-## 🧑‍💻 My Development Methodology
-
-```text
-Have an idea
-     ↓
-"How hard can it be?"
-     ↓
-npm install
-     ↓
-npm install again
-     ↓
-Something breaks
-     ↓
-ChatGPT/Claude
-     ↓
-GitHub Issues
-     ↓
-"Ah, I understand now."
-     ↓
-Break something else
-     ↓
-Fix it
-     ↓
-"It works!"
-     ↓
-DO NOT TOUCH IT
-```
-
----
-
-## 💀 Current Status
-
-```text
-☑️ Building something
-☑️ Breaking something
-☑️ Fixing something
-☑️ Learning something
-☑️ Pretending the architecture was intentional
-☐ Touching grass
-```
 
 ---
 
