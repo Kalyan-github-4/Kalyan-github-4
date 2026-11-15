@@ -86,7 +86,7 @@ I'm a full stack developer and Computer Science student who enjoys building prod
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,python,html,css,tailwind,redux,nodejs,express,fastapi,postgres,redis,docker,linux,bash,git,github,githubactions,vercel,cloudflare,graphql,postman,npm"
+    src="https://skillicons.dev/icons?i=react,nextjs,vite,js,ts,python,html,css,tailwind,redux,nodejs,express,fastapi,postgres,redis,docker,linux,bash,git,github,githubactions,vercel,cloudflare,kafka,graphql,postman,npm"
     width="100%"
     alt="Technologies and development tools"
   />
